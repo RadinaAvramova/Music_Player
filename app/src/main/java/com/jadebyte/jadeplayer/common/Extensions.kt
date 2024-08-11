@@ -1,4 +1,3 @@
-// Copyright (c) 2019 . Wilberforce Uwadiegwu. All Rights Reserved.
 
 package com.jadebyte.jadeplayer.common
 
@@ -22,9 +21,6 @@ import java.nio.charset.Charset
 import kotlin.math.abs
 
 
-/**
- * Created by Wilberforce on 2019-05-05 at 18:59.
- */
 
 /**
  *  Creates an alpha (0 to 1) and vertical transition (0,0 to [translationY]) [Animator] for this view
