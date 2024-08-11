@@ -1,11 +1,6 @@
-// Copyright (c) 2019 . Wilberforce Uwadiegwu. All Rights Reserved.
 
 package com.jadebyte.jadeplayer.common;
 
-/**
- * Created by Wilberforce on 08/04/2019 at 20:22.
- * Original Source: https://gist.github.com/rocboronat/65b1187a9fca9eabfebb5121d818a3c4
- */
 
 import android.content.pm.PackageManager
 import android.os.Build
