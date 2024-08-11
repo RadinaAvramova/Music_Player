@@ -1,4 +1,3 @@
-// Copyright (c) 2019 . Wilberforce Uwadiegwu. All Rights Reserved.
 
 package com.jadebyte.jadeplayer.common
 
@@ -14,9 +13,7 @@ import org.koin.core.context.startKoin
 import timber.log.Timber
 
 
-/**
- * Created by Wilberforce on 27/03/2019 at 22:48.
- */
+
 class App : Application() {
 
     override fun onCreate() {
