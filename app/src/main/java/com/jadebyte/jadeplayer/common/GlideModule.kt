@@ -1,4 +1,3 @@
-// Copyright (c) 2019 . Wilberforce Uwadiegwu. All Rights Reserved.
 
 package com.jadebyte.jadeplayer.common
 
@@ -21,9 +20,7 @@ import com.jadebyte.jadeplayer.main.playback.MediaItemData
 import com.jadebyte.jadeplayer.main.playlist.Playlist
 import java.io.InputStream
 
-/**
- * Created by Wilberforce on 28/03/2019 at 11:58.
- */
+
 
 @GlideModule
 class MyAppGlideModule : AppGlideModule() {
