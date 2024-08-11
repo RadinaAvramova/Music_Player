@@ -1,4 +1,3 @@
-// Copyright (c) 2019 . Wilberforce Uwadiegwu. All Rights Reserved.
 
 package com.jadebyte.jadeplayer.onBoarding
 
@@ -15,9 +14,7 @@ import com.jadebyte.jadeplayer.common.GlideApp
 import kotlinx.android.synthetic.main.item_on_boarding.view.*
 
 
-/**
- * Created by Wilberforce on 28/03/2019 at 08:35.
- */
+
 class OnBoardingAdapter(private val context: Context, private val boards: Array<Board>) : PagerAdapter() {
 
     override fun instantiateItem(container: ViewGroup, position: Int): Any {
